@@ -1,5 +1,8 @@
 # Woocommerce Rest API Toolkit
 
+## How to install
+Download the zip file from github and upload it to your wordpress website.
+
 ## Features
 - [Banners](#banners)
 - [Notification Sytsem](#notifications)
